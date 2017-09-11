@@ -9,5 +9,6 @@ package hellounl;
 public class hello {
 	public static void main (String[] args) {
 		System.out.println("My name is Li Zhang, Nice to meet  you, partner!");
+		System.out.println("My name is Qing Su, Nice to meet  you, partner!");
 	}
 }
