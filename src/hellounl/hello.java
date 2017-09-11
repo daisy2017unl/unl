@@ -1,7 +1,8 @@
 package hellounl;
 
 //Please print your name, partner.
-//For practice of partnership with git
+//For practice of partnership with git jkos
+
 
 
 
